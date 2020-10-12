@@ -2,6 +2,8 @@
 
 ## Preview of the Project:
 ![](./build/images/teamgen.gif)
+![](./build/images/SC.png)
+
 
 **The Nitty Gritty:**
 
