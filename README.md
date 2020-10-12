@@ -1,7 +1,7 @@
 # Team-Profile-Generator
 
 ## Preview of the Project:
-![](insert file location here)
+![](./build/images/teamgen.gif)
 
 **The Nitty Gritty:**
 
